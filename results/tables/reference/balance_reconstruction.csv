@@ -1,0 +1,11 @@
+,,mean balance violation (cm)
+L foot hidden,clean joints,0.81
+L foot hidden,interpolation,4.05
+L foot hidden,recon,0.85
+L foot hidden,+ bone/vel/acc,0.83
+L foot hidden,+ slide,0.83
+both feet hidden,clean joints,0.81
+both feet hidden,interpolation,4.97
+both feet hidden,recon,0.93
+both feet hidden,+ bone/vel/acc,0.88
+both feet hidden,+ slide,0.91

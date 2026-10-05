@@ -1,0 +1,4 @@
+,clips,frames with support,CoM inside support,within 5 cm,mean violation (cm)
+near-static (<0.2 m/s),1786.0,0.927,0.883,0.95,0.744
+slow (0.2-0.7 m/s),2248.0,0.948,0.264,0.543,5.866
+locomotion (>0.7 m/s),605.0,0.885,0.06,0.292,10.717

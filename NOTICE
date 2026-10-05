@@ -1,0 +1,6 @@
+This repository contains original project code by the repository author.
+
+AMASS and SMPL-H assets are not included. They are subject to their own terms,
+licenses, and redistribution restrictions. Users must obtain those assets from
+the official sources and place them in the local data directories described in
+README.md.

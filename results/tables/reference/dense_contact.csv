@@ -1,0 +1,7 @@
+,,per-vertex F1
+labels,four-point labels copied to vertices (redundancy),0.9868
+labels,always contact,0.8111
+clean,per-vertex TCN,0.9631
+clean,four-point TCN copied to vertices,0.9611
+both feet hidden,per-vertex TCN,0.9307
+both feet hidden,four-point TCN copied to vertices,0.9323

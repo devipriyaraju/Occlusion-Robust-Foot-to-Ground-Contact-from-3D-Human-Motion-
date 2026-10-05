@@ -1,0 +1,16 @@
+,,root error (cm),foot slide (cm/s)
+mild 5cm,drifted,2.77,7.1
+mild 5cm,smooth-only,2.79,7.0
+mild 5cm,WHAM-style (predicted),1.95,3.81
+mild 5cm,optimised (predicted),3.27,3.58
+mild 5cm,optimised (GT contact),1.27,2.86
+medium 10cm,drifted,5.52,11.37
+medium 10cm,smooth-only,5.51,10.87
+medium 10cm,WHAM-style (predicted),2.08,3.83
+medium 10cm,optimised (predicted),3.37,3.67
+medium 10cm,optimised (GT contact),1.5,2.96
+hard 25cm,drifted,13.82,25.76
+hard 25cm,smooth-only,13.76,24.13
+hard 25cm,WHAM-style (predicted),2.6,3.92
+hard 25cm,optimised (predicted),3.81,4.14
+hard 25cm,optimised (GT contact),2.38,3.46

@@ -1,0 +1,36 @@
+data:
+  amass_root: data/raw/amass
+  smplh_root: data/body_models/smplh
+  cache_path: data/processed/data_smplh_v2_T64_fps30.pt
+  datasets:
+    - CMU
+    - KIT
+  max_sequences: null
+
+motion:
+  fps: 30
+  clip_length: 64
+  stride: 32
+  height_threshold_m: 0.05
+  speed_threshold_mps: 0.20
+  min_stationary_run: 5
+  leg_extension_threshold_m: 0.60
+  sole_patch_vertices: 20
+
+train:
+  epochs: 15
+  batch_size: 512
+  learning_rate: 0.001
+  weight_decay: 0.0001
+  seed: 0
+  width: 256
+
+refinement:
+  slide_weight: 1.0
+  velocity_weight: 0.01
+  acceleration_weight: 0.0001
+  contact_threshold: 0.8
+  steps: 300
+  learning_rate: 0.02
+
+results_dir: results

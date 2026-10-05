@@ -1,0 +1,13 @@
+drift,method,root error (cm),foot slide (cm/s)
+mild 5cm,drifted,2.77,7.1
+mild 5cm,WHAM-style (confident contacts),1.35,3.57
+mild 5cm,optimised (tuned),2.07,3.28
+mild 5cm,"optimised (GT contact, tuned)",1.48,2.81
+medium 10cm,drifted,5.52,11.37
+medium 10cm,WHAM-style (confident contacts),1.58,3.62
+medium 10cm,optimised (tuned),2.22,3.29
+medium 10cm,"optimised (GT contact, tuned)",1.63,2.82
+hard 25cm,drifted,13.82,25.76
+hard 25cm,WHAM-style (confident contacts),2.38,3.84
+hard 25cm,optimised (tuned),2.8,3.4
+hard 25cm,"optimised (GT contact, tuned)",2.11,2.86

@@ -1,0 +1,24 @@
+,,MPJPE (mm),contact F1 from these joints
+clean 2D,"single frame, 1 view",80.079,0.916
+clean 2D,"temporal, 1 view",70.683,0.917
+clean 2D,"temporal, 2 views",64.808,0.913
+clean 2D,"triangulation, 2 views (exact cameras)",0.0,0.961
+clean 2D,true 3D joints,0.0,0.961
+2D noise 0.005,"single frame, 1 view",82.36,0.91
+2D noise 0.005,"temporal, 1 view",71.519,0.913
+2D noise 0.005,"temporal, 2 views",65.534,0.912
+2D noise 0.005,"triangulation, 2 views (exact cameras)",38.333,0.957
+2D noise 0.005,true 3D joints,0.0,0.961
+2D noise 0.01,"single frame, 1 view",88.238,0.899
+2D noise 0.01,"temporal, 1 view",73.841,0.898
+2D noise 0.01,"temporal, 2 views",67.541,0.909
+2D noise 0.01,"triangulation, 2 views (exact cameras)",76.669,0.947
+2D noise 0.01,true 3D joints,0.0,0.961
+30% joints missing,"single frame, 1 view",96.193,0.875
+30% joints missing,"temporal, 1 view",78.699,0.895
+30% joints missing,"temporal, 2 views",73.437,0.903
+30% joints missing,true 3D joints,0.0,0.961
+both feet hidden,"single frame, 1 view",88.824,0.844
+both feet hidden,"temporal, 1 view",78.829,0.861
+both feet hidden,"temporal, 2 views",71.487,0.856
+both feet hidden,true 3D joints,0.0,0.961

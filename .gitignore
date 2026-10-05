@@ -1,0 +1,21 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+.env
+.DS_Store
+
+# Licensed datasets and body models
+data/raw/**
+!data/raw/**/.gitkeep
+data/body_models/**
+!data/body_models/**/.gitkeep
+
+# Generated caches and checkpoints
+data/processed/*.pt
+results/checkpoints/*.pt
+
+# Local logs
+logs/
+slurm-*.out
